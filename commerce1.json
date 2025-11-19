@@ -1,0 +1,372 @@
+{
+    "gym_equipment": [
+        {
+            "id": 1,
+            "category": "cardio",
+            "name": "Commercial Treadmill Pro 3000",
+            "brand": "Life Fitness",
+            "price": 1999.99,
+            "description": "Commercial grade treadmill with digital display and advanced features",
+            "features": [
+                "Speed range: 0.5-12 mph",
+                "Incline: 0-15%",
+                "Heart rate monitoring",
+                "LCD display"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/1200x/de/d3/b5/ded3b5ef1c9e0de2dd30edf85f8941b0.jpg"
+        },
+        {
+            "id": 2,
+            "category": "strength",
+            "name": "Adjustable Dumbbell Set 5-52.5 lbs",
+            "brand": "Bowflex",
+            "price": 399.99,
+            "description": "Adjustable dumbbells from 5-52.5 lbs with quick weight adjustment",
+            "features": [
+                "Quick weight adjustment",
+                "Space-saving design",
+                "Durable construction",
+                "Premium grips"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/1200x/ff/e6/32/ffe632981a7025eb114c64a87b366ceb.jpg"
+        },
+        {
+            "id": 3,
+            "category": "strength",
+            "name": "Heavy-Duty Power Rack System",
+            "brand": "Rogue Fitness",
+            "price": 899.99,
+            "description": "Heavy-duty power rack for weightlifting with safety features",
+            "features": [
+                "Pull-up bar",
+                "Safety spotter arms",
+                "Weight plate storage",
+                "J-cups included"
+            ],
+            "in_stock": false,
+            "image": "https://i.pinimg.com/736x/80/02/cc/8002cc13afeac3919fa568fa6a1bafe6.jpg"
+        },
+        {
+            "id": 4,
+            "category": "cardio",
+            "name": "Premium Elliptical Trainer",
+            "brand": "Precor",
+            "price": 1499.99,
+            "description": "Low-impact elliptical with multiple resistance levels and Bluetooth connectivity",
+            "features": [
+                "Stride length: 20 inches",
+                "20 resistance levels",
+                "Bluetooth connectivity",
+                "Heart rate sensors"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/736x/89/55/d4/8955d46957ada47400b386c0a016f5ae.jpg"
+        },
+        {
+            "id": 5,
+            "category": "cardio",
+            "name": "Interactive Stationary Bike",
+            "brand": "Peloton",
+            "price": 1299.00,
+            "description": "Interactive indoor bike with live classes and touchscreen display",
+            "features": [
+                "Touchscreen display",
+                "Live and on-demand classes",
+                "Adjustable seat and handlebars",
+                "Quiet magnetic resistance"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/736x/40/45/c8/4045c8f45ba0d9aeaf636b35308f9eaa.jpg"
+        },
+        {
+            "id": 6,
+            "category": "cardio",
+            "name": "Air Resistance Rowing Machine",
+            "brand": "Concept2",
+            "price": 899.00,
+            "description": "Air resistance rower for full-body workouts with performance monitor",
+            "features": [
+                "Adjustable damper",
+                "Performance monitor",
+                "Ergonomic handle",
+                "Folding storage"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/1200x/73/d6/1d/73d61d41c7098136e3259d9c5fe72efe.jpg"
+        },
+        {
+            "id": 7,
+            "category": "strength",
+            "name": "Olympic Barbell 20kg",
+            "brand": "Eleiko",
+            "price": 499.99,
+            "description": "High-quality 20kg olympic barbell with optimized whip and spin",
+            "features": [
+                "Whip and spin optimized",
+                "Knurled grip",
+                "Dual sleeve bearings",
+                "Shaft durability"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/736x/de/43/ef/de43efa38ea2c8d6dcc7768286b8e9da.jpg"
+        },
+        {
+            "id": 8,
+            "category": "strength",
+            "name": "Rubber Bumper Plate Set",
+            "brand": "York",
+            "price": 599.99,
+            "description": "Rubber bumper plates for Olympic lifting with low bounce design",
+            "features": [
+                "Set includes multiple weights",
+                "Low bounce",
+                "Color-coded",
+                "Sleeve compatible"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/1200x/21/55/fb/2155fb6fc8573e704b504611a6c615b4.jpg"
+        },
+        {
+            "id": 9,
+            "category": "functional",
+            "name": "Cast Iron Kettlebell Set",
+            "brand": "Kettlebell Kings",
+            "price": 349.99,
+            "description": "Cast iron kettlebells in multiple sizes with powder coat finish",
+            "features": [
+                "Wide handle",
+                "Powder coat finish",
+                "Competition and standard options",
+                "Set storage rack optional"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/736x/3c/41/2a/3c412a3322c577de88374a5a482f94e3.jpg"
+        },
+        {
+            "id": 10,
+            "category": "accessories",
+            "name": "Resistance Band Set 5-Piece",
+            "brand": "Fit Simplify",
+            "price": 24.99,
+            "description": "Loop resistance bands for mobility and strength training",
+            "features": [
+                "Multiple resistance levels",
+                "Carry bag included",
+                "Durable latex",
+                "Portable"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/736x/3f/52/12/3f5212ca3cdd71d79d718279d8d1fa30.jpg"
+        },
+        {
+            "id": 11,
+            "category": "accessories",
+            "name": "Adjustable Weight Bench",
+            "brand": "Marcy",
+            "price": 149.99,
+            "description": "Adjustable flat/incline/decline bench with 7 positions",
+            "features": [
+                "7 adjustable positions",
+                "Heavy-duty steel frame",
+                "Non-slip padding",
+                "Compact footprint"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/1200x/65/36/b3/6536b33cb9988aa847b881451e338728.jpg"
+        },
+        {
+            "id": 12,
+            "category": "recovery",
+            "name": "Percussive Massage Gun Pro",
+            "brand": "Theragun",
+            "price": 249.00,
+            "description": "Deep tissue percussion massager for recovery with multiple speed settings",
+            "features": [
+                "Multiple speed settings",
+                "Interchangeable heads",
+                "Long battery life",
+                "Quiet operation"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/1200x/fe/7d/86/fe7d864d550dcdf4c3a9a21cc1ee7d14.jpg"
+        },
+        {
+            "id": 13,
+            "category": "flexibility",
+            "name": "Premium Yoga Mat Pro",
+            "brand": "Manduka",
+            "price": 99.99,
+            "description": "High-density non-slip yoga mat with cushioned support",
+            "features": [
+                "Cushioned support",
+                "Eco-friendly materials",
+                "Textured surface",
+                "Easy to clean"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/736x/0d/5a/8e/0d5a8e62ac66714c534da048c70fbf80.jpg"
+        },
+        {
+            "id": 14,
+            "category": "flexibility",
+            "name": "High-Density Foam Roller",
+            "brand": "TriggerPoint",
+            "price": 39.99,
+            "description": "High-density foam roller for myofascial release with textured surface",
+            "features": [
+                "Textured surface",
+                "Durable core",
+                "Various sizes available",
+                "Portable"
+            ],
+            "in_stock": true,
+            "image": "https://img.runningwarehouse.com/watermark/rs.php?path=TRIGPG-BK-1.jpg&nw=455"
+        },
+        {
+            "id": 15,
+            "category": "functional",
+            "name": "TRX Suspension Trainer",
+            "brand": "TRX",
+            "price": 199.99,
+            "description": "Bodyweight suspension training system with adjustable straps",
+            "features": [
+                "Adjustable straps",
+                "Door anchor included",
+                "Lightweight and portable",
+                "Full-body workouts"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/1200x/90/eb/40/90eb40b0a38ed42f154eda4a5dd261e1.jpg"
+        },
+        {
+            "id": 16,
+            "category": "strength",
+            "name": "Commercial Leg Press Machine",
+            "brand": "Hammer Strength",
+            "price": 2599.99,
+            "description": "Commercial leg press for heavy loads with adjustable seat",
+            "features": [
+                "Adjustable seat",
+                "Smooth carriage",
+                "Heavy-duty frame",
+                "Integrated footplate"
+            ],
+            "in_stock": false,
+            "image": "https://i.pinimg.com/736x/18/bf/4e/18bf4e9948ff879b3c72680a0d3ee4ee.jpg"
+        },
+        {
+            "id": 17,
+            "category": "cardio",
+            "name": "SkiErg Cardio Machine",
+            "brand": "Concept2",
+            "price": 799.00,
+            "description": "Nordic-style cardio machine for upper-body and core training",
+            "features": [
+                "Air resistance",
+                "Performance monitor",
+                "Compact footprint",
+                "Adjustable footrests"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/736x/7d/44/fa/7d44fad0e9b96b8450db05b8a6f989d4.jpg"
+        },
+        {
+            "id": 18,
+            "category": "accessories",
+            "name": "Interlocking Gym Flooring Tiles",
+            "brand": "Rubber-Cal",
+            "price": 199.99,
+            "description": "Interlocking rubber tiles for home gym floors with shock absorption",
+            "features": [
+                "Shock absorption",
+                "Interlocking design",
+                "Easy to cut",
+                "Slip resistant"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/736x/c8/ec/8a/c8ec8a6fa069ed16ed234c3d9c113bd2.jpg"
+        },
+        {
+            "id": 19,
+            "category": "strength",
+            "name": "Smith Machine System",
+            "brand": "Titan Fitness",
+            "price": 899.99,
+            "description": "Guided barbell system for safe lifting with safety stops",
+            "features": [
+                "Safety stops",
+                "Integrated weight storage",
+                "Locking positions",
+                "Solid steel construction"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/1200x/4b/24/64/4b2464380fa82d461bd7f5b1c9df88ca.jpg"
+        },
+        {
+            "id": 20,
+            "category": "functional",
+            "name": "Heavy-Duty Battle Ropes",
+            "brand": "Amazon Basics",
+            "price": 89.99,
+            "description": "Heavy-duty battle ropes for conditioning with multiple lengths",
+            "features": [
+                "Thick braided rope",
+                "Multiple lengths",
+                "Durable end caps",
+                "Anchor included"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/736x/9e/ea/61/9eea61f259985c347c3571b02fd5b09d.jpg"
+        },
+        {
+            "id": 21,
+            "category": "accessories",
+            "name": "Doorway Pull-Up Bar",
+            "brand": "Iron Gym",
+            "price": 29.99,
+            "description": "Doorway pull-up and chin-up bar with tool-free installation",
+            "features": [
+                "Tool-free installation",
+                "Multi-grip positions",
+                "Foam padding",
+                "Sturdy steel construction"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/736x/15/0d/35/150d3527f419827b5651efc88ec932a2.jpg"
+        },
+        {
+            "id": 22,
+            "category": "strength",
+            "name": "Cable Crossover Machine Pro",
+            "brand": "Life Fitness",
+            "price": 2199.99,
+            "description": "Dual adjustable pulley system for functional strength training",
+            "features": [
+                "Independent weight stacks",
+                "Adjustable pulleys",
+                "Multiple attachments",
+                "Commercial-grade build"
+            ],
+            "in_stock": false,
+            "image": "https://i.pinimg.com/1200x/ca/01/15/ca0115570baa93aaac6e16acfa8527c6.jpg"
+        },
+        {
+            "id": 23,
+            "category": "recovery",
+            "name": "Portable Ice Bath Tub",
+            "brand": "ColdPod",
+            "price": 749.99,
+            "description": "Portable ice bath for post-workout recovery with insulated shell",
+            "features": [
+                "Insulated shell",
+                "Portable and easy to fill",
+                "Durable liner",
+                "Quick drainage valve"
+            ],
+            "in_stock": true,
+            "image": "https://i.pinimg.com/1200x/59/b3/8c/59b38c6476a58f5ebd0f0fee04d5a2f9.jpg"
+        }
+    ]
+}
